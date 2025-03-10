@@ -26,7 +26,11 @@ Passionate about building scalable web applications and exploring new technologi
 ![ReactJS](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) 
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-%23FFCC00.svg?style=for-the-badge&logo=clickhouse&logoColor=black) 
 ![Tarntool](https://img.shields.io/badge/Tarntool-%23007ACC.svg?style=for-the-badge) 
-
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![AdobeXD](https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?style=for-the-badge&logo=adobexd&logoColor=white) 
+![UX/UI](https://img.shields.io/badge/UX/UI-%23008080.svg?style=for-the-badge)
+![Automation (PHP)](https://img.shields.io/badge/Automation%20(PHP)-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
+![Playwright](https://img.shields.io/badge/Playwright-%23007ACC.svg?style=for-the-badge&logo=playwright&logoColor=white)
 
 ---
 
