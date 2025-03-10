@@ -12,14 +12,16 @@ Passionate about building scalable web applications and exploring new technologi
 
 ## 🛠️ Languages and Tools  
 
-| HTML | CSS | JavaScript | PHP | Laravel | Yii |
-|------|-----|-----------|-----|---------|-----|
-| ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) | ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) | ![Yii](https://img.shields.io/badge/Yii-%230F5298.svg?style=for-the-badge&logo=yii&logoColor=white) |
-
-| Tcl | PostgreSQL | MVC | API |
-|----|------------|-----|-----|
-| ![Tcl](https://img.shields.io/badge/Tcl-%23e4a308.svg?style=for-the-badge&logo=tcl&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) | ![MVC](https://img.shields.io/badge/MVC-%234A90E2.svg?style=for-the-badge) | ![API](https://img.shields.io/badge/API-%23008080.svg?style=for-the-badge) |
-
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
+![Yii](https://img.shields.io/badge/Yii-%230F5298.svg?style=for-the-badge&logo=yii&logoColor=white) 
+![Tcl](https://img.shields.io/badge/Tcl-%23e4a308.svg?style=for-the-badge&logo=tcl&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MVC](https://img.shields.io/badge/MVC-%234A90E2.svg?style=for-the-badge) 
+![API](https://img.shields.io/badge/API-%23008080.svg?style=for-the-badge)
 
 ---
 
