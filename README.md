@@ -21,7 +21,12 @@ Passionate about building scalable web applications and exploring new technologi
 ![Tcl](https://img.shields.io/badge/Tcl-%23e4a308.svg?style=for-the-badge&logo=tcl&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![MVC](https://img.shields.io/badge/MVC-%234A90E2.svg?style=for-the-badge) 
-![API](https://img.shields.io/badge/API-%23008080.svg?style=for-the-badge)
+![API](https://img.shields.io/badge/API-%23008080.svg?style=for-the-badge) 
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white) 
+![ReactJS](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) 
+![ClickHouse](https://img.shields.io/badge/ClickHouse-%23FFCC00.svg?style=for-the-badge&logo=clickhouse&logoColor=black) 
+![Tarntool](https://img.shields.io/badge/Tarntool-%23007ACC.svg?style=for-the-badge) 
+
 
 ---
 
